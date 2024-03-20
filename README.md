@@ -18,7 +18,7 @@ Welcome to the AFame Technology Sales Analysis project repository! This reposito
 - ## Installation:
 
 1. Clone this repository to your local machine using the following command:https://github.com/dj1550/AFame-technology-internship.git
-2. Navigate to the `reports` directory to access the Microsoft Word reports.
+2. Navigate to the `Analysis report.docx` to access the Microsoft Word reports.
 3. Open the Power BI files (`AFame technology sales analysis.pbix`) to view the interactive visualizations.
 4. Open the Excel files (`ECOMM DATA.xlsx`) to access the raw data and additional analysis.
 
